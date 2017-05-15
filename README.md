@@ -7,7 +7,7 @@ get a message in a slack channel alerting you of updates to a site
 ## how
 clone this repo and add a `secrets.yml` file to that dir containting something like
 ```
-target: http://jnmandal.github.io
+target: https://popesites.com/
 slack_webhook: https://hooks.slack.com/services/foo/barbaz
 ```
 where:
